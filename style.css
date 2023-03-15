@@ -28,16 +28,6 @@ a:active { color: #ff8000; }
   margin-bottom: 20px;
 }
 
-.maintenanceText {
-  font-size: 1.5em;
-  user-select: none;
-}
-
-.timeText {
-  font-size: 1.25em;
-  user-select: none;
-}
-
 .cedlogo {
   margin-top: 16px;
 }
