@@ -9,7 +9,7 @@ p, ul, li, h1, h2, h3 {
   padding: 0;
 }
 
-p, h1, h2, h3, li {
+p, h1, h2, h3, li, pre {
   color: white;
 }
 
@@ -17,6 +17,10 @@ a:link { color: #00ffff; }
 a:visited { color: #ffff00; }
 a:hover { color: #ff0000; }
 a:active { color: #ff8000; }
+
+pre {
+  font-size: 14px;
+}
 
 .flex {
   display: flex;
@@ -29,5 +33,7 @@ a:active { color: #ff8000; }
 }
 
 .cedlogo {
+  height: 64px;
+  width: 64px;
   margin-top: 16px;
 }
