@@ -37,3 +37,7 @@ a:active { color: #ff8000; }
   width: 64px;
   margin-top: 16px;
 }
+
+.monoflex {
+  display: flex;
+}
